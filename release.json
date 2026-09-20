@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "10",
+  "version": "20",
   "build": {
     "number": 1,
     "tag": "build-0001",
     "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/build-0001/manifest.json"
   },
   "patch": {
-    "number": 0,
-    "tag": "",
-    "manifestUrl": ""
+    "number": 1,
+    "tag": "patch-0001-0001",
+    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/patch-0001-0001/manifest.json"
   }
 }
