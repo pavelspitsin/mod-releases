@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "60",
+  "version": "0.21 0.27",
   "build": {
-    "number": 2,
-    "tag": "build-0002",
-    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/build-0002/manifest.json"
+    "number": 3,
+    "tag": "build-0003",
+    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/build-0003/manifest.json"
   },
   "patch": {
-    "number": 3,
-    "tag": "patch-0002-0003",
-    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/patch-0002-0003/manifest.json"
+    "number": 0,
+    "tag": "",
+    "manifestUrl": ""
   }
 }
