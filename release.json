@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "version": "0.21 0.27",
   "build": {
-    "number": 3,
-    "tag": "build-0003",
-    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/build-0003/manifest.json"
+    "number": 4,
+    "tag": "build-0004",
+    "manifestUrl": "https://github.com/pavelspitsin/mod-releases/releases/download/build-0004/manifest.json"
   },
   "patch": {
     "number": 0,
